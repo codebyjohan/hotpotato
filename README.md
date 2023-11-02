@@ -1,3 +1,12 @@
+# Hot Potato Game
+A hot potato game using SvelteKit & Storybook created under my internship at Erudize
+
+### Screenshots
+<img src="https://github.com/codebyjohan/hotpotato/assets/60930220/e3a46a0e-d5d3-43bc-95d9-07b4c11ed672" width="900">
+<img src="https://github.com/codebyjohan/hotpotato/assets/60930220/12a441e1-ba1d-489b-9323-226d479bf534" width="900">
+<img src="https://github.com/codebyjohan/hotpotato/assets/60930220/6f8a6c37-6238-4546-b284-cc64caa4dde8" width="900">
+<img src="https://github.com/codebyjohan/hotpotato/assets/60930220/8fa44f8a-123e-457b-980c-38be5d757137" width="900">
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
